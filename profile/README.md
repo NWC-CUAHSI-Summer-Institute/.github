@@ -1,14 +1,14 @@
 ## Resources
-## Team 2023
+### Team 2023
 - [Theme 1: Model development & selection in arid regions
 ](https://github.com/NWC-CUAHSI-Summer-Institute/ngen-aridity)
 - Theme 1: Data assimilation (please link the main repo)
 
 
-## Team 2022
+### Team 2022
 Please contact each theme lead/members for the coding/data resources. 
 
-## Team 2021
+### Team 2021
 Please contact each theme lead/members for the coding/data resources. 
 
 <!--
