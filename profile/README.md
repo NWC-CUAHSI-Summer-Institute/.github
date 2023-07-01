@@ -8,8 +8,7 @@
 Please contact each theme lead/members for the coding/data resources. 
 
 ## Team 2021
-
-
+Please contact each theme lead/members for the coding/data resources. 
 
 <!--
 Feel free to add your 
