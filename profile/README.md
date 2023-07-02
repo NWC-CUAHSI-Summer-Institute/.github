@@ -2,7 +2,7 @@
 ### Team 2023
 - [Theme 1: Model development & selection in arid regions
 ](https://github.com/NWC-CUAHSI-Summer-Institute/ngen-aridity)
-- Theme 1: Data assimilation (please link the main repo)
+- [Theme 1: Data assimilation](https://github.com/NWC-CUAHSI-Summer-Institute/data_assimilation_with_bmi)
 
 
 ### Team 2022
