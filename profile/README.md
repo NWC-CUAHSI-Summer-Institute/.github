@@ -1,19 +1,22 @@
 ## Resources
-### Team 2023
-- [Theme 1: Model development & selection in arid regions
-](https://github.com/NWC-CUAHSI-Summer-Institute/ngen-aridity)
-- [Theme 1: Data assimilation](https://github.com/NWC-CUAHSI-Summer-Institute/data_assimilation_with_bmi)
 
+### Team 2023
+
+- [Theme 1: Model development & selection in arid regions](https://github.com/NWC-CUAHSI-Summer-Institute/ngen-aridity)
+- [Theme 1: Data assimilation](https://github.com/NWC-CUAHSI-Summer-Institute/data_assimilation_with_bmi)
+- [Theme 2: Compound flooding under changing climate](https://github.com/javedali99/si2023-compound-flooding)
 
 ### Team 2022
+
 See [the report](https://www.cuahsi.org/uploads/library/doc/SI2022_Report_v1.2.docx.pdf).  
-Please contact each theme lead/members for the coding/data resources. 
+Please contact each theme lead/members for the coding/data resources.
 
 ### Team 2021
-Please contact each theme lead/members for the coding/data resources. 
+
+Please contact each theme lead/members for the coding/data resources.
 
 <!--
-Feel free to add your 
+Feel free to add your
 -->
 
 <!--
