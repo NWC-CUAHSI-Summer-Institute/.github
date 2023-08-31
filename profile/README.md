@@ -1,7 +1,8 @@
 ## Resources
 
 ### Team 2023
-
+See [the report](https://www.cuahsi.org/uploads/library/doc/SI2023_Report.pdf).
+See the following repositories for the coding/data resources: 
 - [Theme 1: Model development & selection in arid regions](https://github.com/NWC-CUAHSI-Summer-Institute/ngen-aridity)
 - [Theme 1: Data assimilation](https://github.com/NWC-CUAHSI-Summer-Institute/data_assimilation_with_bmi)
 - [Theme 2: Compound flooding under changing climate](https://github.com/javedali99/si2023-compound-flooding)
