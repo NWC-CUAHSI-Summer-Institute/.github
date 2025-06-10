@@ -1,16 +1,26 @@
 ## Resources
 
+### Team 2024
+See [the report](https://www.cuahsi.org/uploads/pages/doc/202407_Summer_Institute_Final_Report_v2.0.pdf).
+See the following repositories for the coding/data resources: 
+- [Theme 1: Atmospheric Rivers](https://github.com/NWC-CUAHSI-Summer-Institute/SI24_GOES-ARs)
+- [Theme 2: Snow Water Equivalent](https://github.com/NWC-CUAHSI-Summer-Institute/SI24_GOES-SWE)
+- [Theme 3: Uncertainty Quantification for NextGen](https://github.com/NWC-CUAHSI-Summer-Institute/NextGen-Uncertainty-quantification)
+- [Theme 4: Remote Sensing Flood Inundation Mapping with FLDPLN](https://github.com/NWC-CUAHSI-Summer-Institute/FLDSensing)
+
 ### Team 2023
 See [the report](https://www.cuahsi.org/uploads/library/doc/SI2023_Report.pdf).
 See the following repositories for the coding/data resources: 
 - [Theme 1: Model development & selection in arid regions](https://github.com/NWC-CUAHSI-Summer-Institute/ngen-aridity)
-- [Theme 1: Data assimilation](https://github.com/NWC-CUAHSI-Summer-Institute/data_assimilation_with_bmi)
-- [Theme 2: Compound flooding under changing climate](https://github.com/javedali99/si2023-compound-flooding)
+- [Theme 2: Data assimilation for NextGen](https://github.com/NWC-CUAHSI-Summer-Institute/data_assimilation_with_bmi)
+- [Theme 3: Compound flooding under changing climate](https://github.com/javedali99/si2023-compound-flooding)
 
 ### Team 2022
 
 See [the report](https://www.cuahsi.org/uploads/library/doc/SI2022_Report_v1.2.docx.pdf).  
-Please contact each theme lead/members for the coding/data resources.
+
+- [Theme: Data assimilation for NextGen](https://github.com/NWC-CUAHSI-Summer-Institute/data_assimilation_with_bmi)
+- [Theme: Model selection for NextGen](https://github.com/NWC-CUAHSI-Summer-Institute/model-selection)
 
 ### Team 2021
 
