@@ -1,5 +1,12 @@
 ## Resources
 
+### Team 2025
+See [the report](https://www.cuahsi.org/uploads/pages/img/250728_SI_Final_Report.pdf).
+See the following repositories for the coding/data resources:
+- [Pluvial Flooding Detection](https://github.com/NWC-CUAHSI-Summer-Institute/hydropulse)
+- [LSTM Models for NextGen Framework](https://github.com/NWC-CUAHSI-Summer-Institute/NeuralNgen)
+- [DL-Based Pluvial Flood Mapping in Urban Settings](https://github.com/NWC-CUAHSI-Summer-Institute/PluvialNN)
+
 ### Team 2024
 See [the report](https://www.cuahsi.org/uploads/pages/doc/202407_Summer_Institute_Final_Report_v2.0.pdf).
 See the following repositories for the coding/data resources: 
