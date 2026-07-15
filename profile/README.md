@@ -1,5 +1,9 @@
 ## Resources
 
+### Team 2026
+See the following repositories for the coding/data resources:
+- [Evaluating the Sensitivity of HAND Flood Inundation Mapping to River Slope] (https://github.com/NWC-CUAHSI-Summer-Institute/TVSlope) 
+
 ### Team 2025
 See [the report](https://www.cuahsi.org/uploads/pages/img/250728_SI_Final_Report.pdf).
 See the following repositories for the coding/data resources:
