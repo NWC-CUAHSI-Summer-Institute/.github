@@ -1,5 +1,7 @@
 ## Resources
 
+### Team 2026
+
 ### Team 2025
 See [the report](https://www.cuahsi.org/uploads/pages/img/250728_SI_Final_Report.pdf).
 See the following repositories for the coding/data resources:
